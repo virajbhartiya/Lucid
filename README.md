@@ -29,12 +29,10 @@ Setup Installation:
 
 ```
 pip install -r requirements.txt
-pip install git+https://github.com/openai/CLIP.git
-pip install git+https://github.com/fbcotter/pytorch_wavelets
 ```
 FFMPEG :
 ```
-Install [FFMPEG](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z)
+Install https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
 Extract it
 Add `bin` to PATH
 ```
